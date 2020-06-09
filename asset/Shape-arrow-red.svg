@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="17px" viewBox="0 0 32 17" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+      <feOffset dx="0" dy="1" />
+      <feGaussianBlur stdDeviation="1.5" />
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.3921569 0 0 0 0 0.3921569 0 0 0 0 0.3921569 0 0 0 0.4980392 0" />
+      <feBlend mode="normal" in2="shape" result="effect0_innerShadow" />
+    </filter>
+  </defs>
+  <g filter="url(#filter_1)">
+    <path d="M31.79 7.49268L24.52 0.252441C24.25 -0.0473633 23.8 -0.0874023 23.49 0.172363C23.1899 0.432617 23.1499 0.892578 23.4099 1.19238C23.4399 1.22266 23.46 1.25244 23.49 1.27246L29.52 7.28223L0.72998 7.28223C0.330078 7.28223 0 7.60254 0 8.00244C0 8.40234 0.330078 8.73242 0.72998 8.73242L29.52 8.73242L23.49 14.7324C23.1899 14.9927 23.1499 15.4424 23.4099 15.7524C23.6699 16.0522 24.1299 16.0923 24.4399 15.8325C24.47 15.8022 24.49 15.7822 24.52 15.7524L31.79 8.51221C32.0701 8.23242 32.0701 7.77246 31.79 7.49268L31.79 7.49268Z" id="Shape" fill="#FF0000" stroke="none" />
+  </g>
+</svg>
